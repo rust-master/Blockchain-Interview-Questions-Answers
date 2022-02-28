@@ -18,6 +18,8 @@
 - Explain Proof of Work (POW)
 - Explain Proof of Stack (POS)
 - Explain Proof of History (POH)
+- Explain Proof of Capacity (POC)
+- Explain Proof of Authority (POA)
 - Explain Practical Byzantine Fault Tolerance (PBFT)
 
 <hr>
