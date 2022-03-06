@@ -38,6 +38,10 @@
 
 ## Solidity
 
+- What is inheritance
+- What is library
+- Token Standards
+- Modifiers
 - events
 - overflow & underflow
 - Proxy Contract
