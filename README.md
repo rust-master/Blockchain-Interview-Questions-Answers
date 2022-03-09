@@ -23,6 +23,8 @@
 - Explain Practical Byzantine Fault Tolerance (PBFT)
 - What is 51% attack?
 - Difference between Blockchain and traditional database
+- Explain the Blokchian Layers.
+- Differentiate Layers (L1, L2, L3)
 
 <hr>
 
@@ -33,6 +35,7 @@
 - What is Transcations
 - Explain the Blocks
 - What is Unqle Blocks
+- What is hardfork and softfork
 
 <hr>
 
@@ -45,6 +48,7 @@
 - events
 - overflow & underflow
 - Proxy Contract
+- What is migrations
 
 <hr>
 
