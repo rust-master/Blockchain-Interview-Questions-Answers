@@ -49,6 +49,12 @@
 - overflow & underflow
 - Proxy Contract
 - What is migrations
+- how to upgrade contract
+- Pure vs View
+- Reentrancy attack
+- payable function
+- Inheritance
+- Public vs Private access modifier
 
 <hr>
 
