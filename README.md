@@ -59,17 +59,17 @@
 <hr>
 
 ## Solana
-
+- comming soon
 <hr>
 
 ## Hyperleder
-
+- comming soon
 <hr>
 
 ## Cardano
-
+- comming soon
 <hr>
 
 ## Polkadot
-
+- comming soon
 <hr>
