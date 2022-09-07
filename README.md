@@ -58,6 +58,11 @@
 
 <hr>
 
+## Web3.js & Ether.js
+
+- offline transactions
+- how to create wallet in web3.js and ether.js
+
 ## Solana
 - comming soon
 <hr>
