@@ -32,6 +32,21 @@
 
 - What is EVM
 - What is Gas Fee
+- What is Transcations nonce
+- How block add in blockchain
+- What is Merkle tree
+- What is cryptographic
+- Why is Blockchain a trusted approach
+- Name the two types of records that are present in the blockchain database
+- What are the properties of Blockchain?
+- What is encryption? What is its role in Blockchain
+- What Is the Ethereum Network
+- What Is the Value Token for Ethereum
+- What Is the Consensus Algorithm
+- What Is the Ethereum Node
+- What Is Dapps
+- How Can You Connect to A Node
+- How Bitcoin and Ethereum Differ When It Comes to Checking the Latest State
 - What is Transcations
 - Explain the Blocks
 - What is Unqle Blocks
