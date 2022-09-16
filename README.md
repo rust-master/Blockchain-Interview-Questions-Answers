@@ -77,6 +77,11 @@
 
 - offline transactions
 - how to create wallet in web3.js and ether.js
+- what is provider
+
+## Decentralized Exchanges
+- comming soon
+<hr>
 
 ## Solana
 - comming soon
