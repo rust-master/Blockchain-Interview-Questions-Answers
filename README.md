@@ -91,6 +91,10 @@
 - comming soon
 <hr>
 
+## Bitcoin
+- comming soon
+<hr>
+
 ## Solana
 - comming soon
 <hr>
