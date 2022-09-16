@@ -93,7 +93,9 @@
 <hr>
 
 ## Bitcoin
-- comming soon
+- What is bitcoin?
+- Bitcoin Mining?
+- Bitcoin Monetary policies?
 <hr>
 
 ## Solana
