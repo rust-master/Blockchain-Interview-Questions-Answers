@@ -58,6 +58,8 @@
 ## Solidity
 
 - What is inheritance
+- Functions
+- Data types
 - What is library
 - Token Standards
 - Modifiers
