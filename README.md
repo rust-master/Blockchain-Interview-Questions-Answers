@@ -71,6 +71,7 @@
 - payable function
 - Inheritance
 - Public vs Private access modifier
+- Storage
 
 <hr>
 
@@ -81,7 +82,7 @@
 - what is provider
 - Interact with Smart Contracts
 - Checking Accounts balance
-- Calling smart contract functions
+- Calling smart contract functions (Read & Write)
 - Smart contract events
 - Web3.js utilities
 - Conversion to and from the base unit of currency
