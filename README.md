@@ -50,7 +50,7 @@
 - How Bitcoin and Ethereum Differ When It Comes to Checking the Latest State
 - What is Transcations
 - Explain the Blocks
-- What is Unqle Blocks
+- What is Uncle Blocks
 - What is hardfork and softfork
 - What is geth
 <hr>
