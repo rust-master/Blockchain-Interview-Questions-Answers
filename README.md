@@ -78,6 +78,13 @@
 - offline transactions
 - how to create wallet in web3.js and ether.js
 - what is provider
+- Interact with Smart Contracts
+- Checking Accounts balance
+- Calling smart contract functions
+- Smart contract events
+- Web3.js utilities
+- Conversion to and from the base unit of currency
+- Gas price
 
 ## Decentralized Exchanges
 - comming soon
