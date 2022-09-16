@@ -36,6 +36,7 @@
 - How block add in blockchain
 - What is Merkle tree
 - What is cryptographic
+- What is wallet and types of wallets
 - Why is Blockchain a trusted approach
 - Name the two types of records that are present in the blockchain database
 - What are the properties of Blockchain?
