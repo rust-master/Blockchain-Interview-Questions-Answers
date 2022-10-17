@@ -89,6 +89,7 @@
 - Web3.js utilities
 - Conversion to and from the base unit of currency
 - Gas price
+- What is Infura
 
 ## Decentralized Exchanges
 - comming soon
