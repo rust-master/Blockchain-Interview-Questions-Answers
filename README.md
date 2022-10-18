@@ -60,6 +60,7 @@
 - What is inheritance
 - Functions
 - Data types
+- what is payable keyword in solidity
 - What is library
 - Token Standards
 - Modifiers
