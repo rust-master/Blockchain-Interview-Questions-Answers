@@ -7,6 +7,7 @@
 - Difference between decentralized & distributed
 - What is Merkle Tree
 - What is Hashing
+- What is cryptography and it's types
 - What is Mining
 - which hashing algorithm use in Bitcoin and Ethereum
 - Explain the Types of Blockchain
