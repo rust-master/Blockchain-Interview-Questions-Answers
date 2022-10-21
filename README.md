@@ -24,7 +24,7 @@
 - What is 51% attack?
 - Difference between Blockchain and traditional database
 - Explain the Blokchian Layers.
-- Differentiate Layers (L1, L2, L3)
+- Differentiate Layers (L0, L1, L2, L3)
 
 <hr>
 
