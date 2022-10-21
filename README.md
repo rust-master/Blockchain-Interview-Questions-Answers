@@ -13,7 +13,8 @@
 - Explain the Types of Blockchain
   - Public, Private, Hybrid, Consortium
 - What is on chain and off chain
-- What is IPFS
+- What is IPFS and pinata
+- what is by defualt value in variable
 - What is Cryptography
 - What is stacking, yeild farming, burning
 - Explain Proof of Work (POW)
