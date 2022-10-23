@@ -3,6 +3,7 @@
 ## Blockchain
 
 - What is Blockchain
+- Why blockchain 
 - Describe the Consensus Mechanism
 - Difference between decentralized & distributed
 - What is Merkle Tree
