@@ -79,6 +79,7 @@
 - Inheritance
 - Public vs Private access modifier
 - Storage
+- Difference bwtween Enum and Struct
 
 <hr>
 
