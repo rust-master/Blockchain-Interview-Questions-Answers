@@ -86,6 +86,7 @@
 ## Web3.js & Ether.js
 
 - offline transactions
+- What is on-chain and off-chain
 - how to create wallet in web3.js and ether.js
 - what is provider
 - Interact with Smart Contracts
