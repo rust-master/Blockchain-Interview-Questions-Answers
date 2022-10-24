@@ -3,20 +3,19 @@
 ## Blockchain
 
 - What is Blockchain
-- Why blockchain 
+- Why use blockchain 
 - Describe the Consensus Mechanism
 - Difference between decentralized & distributed
 - What is Merkle Tree
 - What is Hashing
-- What is cryptography and it's types
 - What is Mining
 - which hashing algorithm use in Bitcoin and Ethereum
 - Explain the Types of Blockchain
   - Public, Private, Hybrid, Consortium
 - What is on chain and off chain
-- What is IPFS and pinata
+- What is IPFS and Pinata
 - what is by defualt value in variable
-- What is Cryptography
+- What is Cryptography and it's types
 - What is stacking, yeild farming, burning
 - Explain Proof of Work (POW)
 - Explain Proof of Stake (POS)
@@ -38,20 +37,19 @@
 - What is Transcations nonce
 - How block add in blockchain
 - What is Merkle tree
-- What is cryptography and it's  types
-- Difference between Bitcin and Ethereum
+- Difference between Bitcoin and Ethereum
+- How Bitcoin and Ethereum fiffer when it comes to xhecking the latest state
 - What is wallet and types of wallets
 - Why is Blockchain a trusted approach
 - Name the two types of records that are present in the blockchain database
 - What are the properties of Blockchain?
 - What is encryption? What is its role in Blockchain
-- What Is the Ethereum Network
-- What Is the Value Token for Ethereum
-- What Is the Consensus Algorithm
-- What Is the Ethereum Node
-- What Is Dapps
-- How Can You Connect to A Node
-- How Bitcoin and Ethereum Differ When It Comes to Checking the Latest State
+- What is the Ethereum Network
+- What is the Value Token for Ethereum
+- What is the Consensus Algorithm
+- What is the Ethereum Node
+- What is dApps
+- How can you connect to a Node
 - What is Transcations
 - Explain the Blocks
 - What is Uncle Blocks
