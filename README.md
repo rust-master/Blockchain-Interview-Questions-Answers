@@ -3,16 +3,19 @@
 ## Blockchain
 
 - What is Blockchain
+- Why blockchain 
 - Describe the Consensus Mechanism
 - Difference between decentralized & distributed
 - What is Merkle Tree
 - What is Hashing
+- What is cryptography and it's types
 - What is Mining
 - which hashing algorithm use in Bitcoin and Ethereum
 - Explain the Types of Blockchain
   - Public, Private, Hybrid, Consortium
 - What is on chain and off chain
-- What is IPFS
+- What is IPFS and pinata
+- what is by defualt value in variable
 - What is Cryptography
 - What is stacking, yeild farming, burning
 - Explain Proof of Work (POW)
@@ -35,7 +38,8 @@
 - What is Transcations nonce
 - How block add in blockchain
 - What is Merkle tree
-- What is cryptographic
+- What is cryptography and it's  types
+- Difference between Bitcin and Ethereum
 - What is wallet and types of wallets
 - Why is Blockchain a trusted approach
 - Name the two types of records that are present in the blockchain database
@@ -75,12 +79,14 @@
 - Inheritance
 - Public vs Private access modifier
 - Storage
+- Difference bwtween Enum and Struct
 
 <hr>
 
 ## Web3.js & Ether.js
 
 - offline transactions
+- What is on-chain and off-chain
 - how to create wallet in web3.js and ether.js
 - what is provider
 - Interact with Smart Contracts
