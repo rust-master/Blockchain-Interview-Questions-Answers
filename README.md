@@ -61,6 +61,7 @@
 
 ## Solidity
 
+- What is a smart contract’s ABI?
 - What is inheritance
 - Functions
 - Data types
