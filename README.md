@@ -59,6 +59,7 @@
 
 ## Solidity
 
+- What is a smart contract’s ABI?
 - What is inheritance
 - Functions
 - Data types
@@ -78,6 +79,8 @@
 - Public vs Private access modifier
 - Storage
 - Difference bwtween Enum and Struct
+- What is the equivalent of a Javascript console.log in Solidity for debugging?
+- How can you protect yourself from a re-entry attack?
 
 <hr>
 
