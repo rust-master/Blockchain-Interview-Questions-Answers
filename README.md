@@ -81,6 +81,7 @@
 - Public vs Private access modifier
 - Storage
 - Difference bwtween Enum and Struct
+- What is the equivalent of a Javascript console.log in Solidity for debugging?
 
 <hr>
 
