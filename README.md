@@ -33,6 +33,7 @@
 ## Ethereum Blockchain
 
 - What is EVM
+- What exactly is EVM bytecode?
 - What is Gas Fee
 - What is Transcations nonce
 - How block add in blockchain
@@ -70,6 +71,7 @@
 - events
 - overflow & underflow
 - Proxy Contract
+- What is a library and how many types are there?
 - What is migrations
 - how to upgrade contract
 - Pure vs View
