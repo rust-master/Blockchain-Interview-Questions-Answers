@@ -34,6 +34,7 @@
 ## Ethereum Blockchain
 
 - What is EVM
+- What exactly is EVM bytecode?
 - What is Gas Fee
 - What is Transcations nonce
 - How block add in blockchain
