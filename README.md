@@ -115,6 +115,10 @@
 - comming soon
 <hr>
 
+## Rust
+- comming soon
+<hr>
+
 ## Hyperleder
 - comming soon
 <hr>
